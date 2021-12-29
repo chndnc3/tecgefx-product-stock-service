@@ -1,0 +1,1 @@
+# tecgefx-product-stock-service
