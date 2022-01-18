@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: techefx-product-stock-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/productstock
+    username: root
+    password: rootuser
+  jpa:
+    show-sql: true
+
+server:
+  port: 8800
